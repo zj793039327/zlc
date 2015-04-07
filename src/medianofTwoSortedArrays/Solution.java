@@ -1,0 +1,7 @@
+package medianofTwoSortedArrays;
+
+public class Solution {
+    public double findMedianSortedArrays(int A[], int B[]) {
+
+    }
+}
